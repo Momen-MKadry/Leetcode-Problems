@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6zxSOvTvD5sYHHPVjg0bAlkp6NRoQRONDgCw90yX7fiPluBys5fdAR8u46H49P1Pjt2nyWedr9rrcBY+R4xMw==",
+  "success": true,
+  "projectFilePath": "/home/melo/Problem Solving/LeetCode/58/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/melo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
