@@ -1,3 +1,0 @@
-/home/melo/Problem Solving/LeetCode/1790/build/CMakeFiles/1790.dir
-/home/melo/Problem Solving/LeetCode/1790/build/CMakeFiles/edit_cache.dir
-/home/melo/Problem Solving/LeetCode/1790/build/CMakeFiles/rebuild_cache.dir

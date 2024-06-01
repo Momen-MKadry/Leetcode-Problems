@@ -1,3 +1,0 @@
-/home/momenk/Problem Solving/LeetCode/383/cmake-build-debug/CMakeFiles/383.dir
-/home/momenk/Problem Solving/LeetCode/383/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/momenk/Problem Solving/LeetCode/383/cmake-build-debug/CMakeFiles/rebuild_cache.dir

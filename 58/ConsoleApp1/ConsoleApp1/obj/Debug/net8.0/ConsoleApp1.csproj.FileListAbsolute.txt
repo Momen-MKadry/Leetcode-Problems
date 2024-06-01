@@ -1,4 +1,0 @@
-/home/melo/Problem Solving/LeetCode/58/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-/home/melo/Problem Solving/LeetCode/58/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
-/home/melo/Problem Solving/LeetCode/58/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
-/home/melo/Problem Solving/LeetCode/58/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache

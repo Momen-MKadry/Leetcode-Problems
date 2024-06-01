@@ -1,3 +1,0 @@
-/home/melo/Problem Solving/LeetCode/1309/cmake-build-debug/CMakeFiles/1309.dir
-/home/melo/Problem Solving/LeetCode/1309/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/melo/Problem Solving/LeetCode/1309/cmake-build-debug/CMakeFiles/rebuild_cache.dir

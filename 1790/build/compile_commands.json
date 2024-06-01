@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/melo/Problem Solving/LeetCode/1790/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/1790.dir/main.cpp.o -c \"/home/melo/Problem Solving/LeetCode/1790/main.cpp\"",
-  "file": "/home/melo/Problem Solving/LeetCode/1790/main.cpp",
-  "output": "CMakeFiles/1790.dir/main.cpp.o"
-}
-]
