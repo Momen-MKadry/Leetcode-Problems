@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTkveXyBg5X/FIq7Pe53aYAW35LvD2t+IT1MDswwX6fLxYi/RxoPbugnIEC7t2DtTnZn2xVTH8cO+ICiTaD/1g==",
+  "success": true,
+  "projectFilePath": "/home/melo/GitRepos/Leetcode-Problems/2859/Solution/Solution/Solution.csproj",
+  "expectedPackageFiles": [
+    "/home/melo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

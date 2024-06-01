@@ -1,0 +1,5 @@
+/home/melo/GitRepos/Leetcode-Problems/338/Solution/Solution/obj/Debug/net8.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/home/melo/GitRepos/Leetcode-Problems/338/Solution/Solution/obj/Debug/net8.0/Solution.AssemblyInfoInputs.cache
+/home/melo/GitRepos/Leetcode-Problems/338/Solution/Solution/obj/Debug/net8.0/Solution.AssemblyInfo.cs
+/home/melo/GitRepos/Leetcode-Problems/338/Solution/Solution/obj/Debug/net8.0/Solution.csproj.CoreCompileInputs.cache
+/home/melo/GitRepos/Leetcode-Problems/338/Solution/Solution/obj/Debug/net8.0/Solution.sourcelink.json
