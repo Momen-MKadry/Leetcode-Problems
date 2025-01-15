@@ -4,25 +4,21 @@
         int result = 0;
         for (int i = 0; i < nums.Count; i++)
         {
-            int num = nums[i];
-            int oneCount = 0;
-            IList<int> binary = new List<int>();
-            int remainder = 0;
-            while (num > 0)
+            int currIndex = i;
+            int count = 0;
+            while (currIndex > 0)
             {
-                remainder = num % 2;
-                if (remainder == 1)
-                {
-                    binary.Add(1);
-                    oneCount++;
-                }
-                else binary.Add(0);
+                currIndex = currIndex & (currIndex - 1);
+                ++count;
 
-                num = num / 2;
+                if(count > k)
+                    break;              
             }
-            if(oneCount == k) result += nums[i];
+            if(count == k)
+                result += nums[i];
         }
 
         return result;
     }
 }
+
