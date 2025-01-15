@@ -1,3 +1,0 @@
-1
-0
-{"Hash":"","Name":"","Path":"/home/momenk/Problem Solving/LeetCode/383/main.cpp"}
