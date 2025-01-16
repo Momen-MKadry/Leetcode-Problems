@@ -7,6 +7,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0952-word-subsets](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0952-word-subsets) |
+| [1046-max-consecutive-ones-iii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
@@ -100,5 +102,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
