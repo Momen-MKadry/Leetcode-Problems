@@ -204,4 +204,8 @@
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
