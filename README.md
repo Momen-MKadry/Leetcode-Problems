@@ -30,6 +30,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -192,4 +194,12 @@
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
