@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,8 +161,10 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
