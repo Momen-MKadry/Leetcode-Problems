@@ -9,6 +9,7 @@
 | [0952-word-subsets](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0338-counting-bits) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 | [1833-find-the-highest-altitude](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
