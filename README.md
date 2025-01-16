@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -64,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
@@ -77,6 +79,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0952-word-subsets) |
@@ -200,6 +203,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
