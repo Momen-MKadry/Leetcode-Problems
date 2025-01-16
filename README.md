@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0952-word-subsets](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -86,6 +87,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
