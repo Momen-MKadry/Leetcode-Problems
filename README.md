@@ -86,6 +86,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1666-make-the-string-great) |
+| [1894-merge-strings-alternately](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -158,6 +159,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0443-string-compression) |
+| [1894-merge-strings-alternately](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
