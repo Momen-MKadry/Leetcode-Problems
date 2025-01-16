@@ -13,6 +13,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0952-word-subsets](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -117,4 +119,12 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
