@@ -84,6 +84,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1666-make-the-string-great](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1666-make-the-string-great) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1666-make-the-string-great) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## String Matching
 |  |
