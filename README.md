@@ -10,6 +10,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -90,5 +91,6 @@
 | [0724-find-pivot-index](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
