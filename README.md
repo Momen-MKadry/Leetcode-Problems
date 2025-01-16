@@ -27,6 +27,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2509-minimize-xor) |
 ## Hash Table
 |  |
@@ -36,9 +37,14 @@
 ## String
 |  |
 | ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
