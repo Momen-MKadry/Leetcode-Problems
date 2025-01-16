@@ -24,6 +24,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
