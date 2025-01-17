@@ -75,6 +75,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -96,6 +97,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1666-make-the-string-great) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -212,6 +215,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 ## Monotonic Stack
 |  |
 | ------- |
