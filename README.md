@@ -15,6 +15,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0952-word-subsets) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
