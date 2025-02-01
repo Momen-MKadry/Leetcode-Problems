@@ -37,6 +37,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
