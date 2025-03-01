@@ -30,6 +30,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -181,6 +182,7 @@
 | [0392-is-subsequence](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
