@@ -33,6 +33,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
@@ -85,6 +86,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -183,6 +185,7 @@
 | [0443-string-compression](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
