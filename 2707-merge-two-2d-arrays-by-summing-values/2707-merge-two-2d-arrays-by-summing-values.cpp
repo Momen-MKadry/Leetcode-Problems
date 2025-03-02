@@ -18,11 +18,13 @@ public:
                 }
             }
         }
-
-        for(i; i < nums1.size();++i)
-            result.push_back(nums1[i]);
-        for(j; j < nums2.size();++j)
-            result.push_back(nums2[j]);
+        if(i < nums1.size())
+            for(i; i < nums1.size();++i)
+                result.push_back(nums1[i]);
+        if(j < nums2.size())
+            for(j; j < nums2.size();++j)
+                result.push_back(nums2[j]);
+        
         return result;
     }
 };
