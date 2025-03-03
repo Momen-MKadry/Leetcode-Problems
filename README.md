@@ -26,6 +26,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -184,6 +185,7 @@
 | [0392-is-subsequence](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -243,6 +245,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
