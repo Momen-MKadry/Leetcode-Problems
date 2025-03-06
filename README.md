@@ -39,6 +39,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3227-find-missing-and-repeated-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -89,6 +90,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -198,6 +200,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3568-find-the-key-of-the-numbers) |
 ## Tree
@@ -270,6 +273,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Shortest Path
 |  |
 | ------- |
