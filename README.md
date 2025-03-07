@@ -197,6 +197,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -278,4 +279,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Momen-MKadry/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
